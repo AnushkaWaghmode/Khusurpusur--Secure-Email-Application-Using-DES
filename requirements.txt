@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Tkinter and socket are from the Python standard library.
