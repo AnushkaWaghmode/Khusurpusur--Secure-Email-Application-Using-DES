@@ -140,16 +140,6 @@ This project demonstrates:
 - Socket programming
 - Secure message transmission concept
 
-## 7. Viva explanation in 30 seconds
-
-"Our project is a secure email demonstration. We used Python, Tkinter and TCP
-socket programming. When a user sends an email, its sender, recipient,
-subject and body are encrypted locally using DES and converted into
-ciphertext. The relay only forwards that ciphertext. The recipient uses the
-same secret DES key to decrypt it and recover the email. Thus the project
-demonstrates encryption, decryption and symmetric-key cryptography through an
-email-style interface."
-
 ## 8. Important security limitation
 
 This is an academic demonstration of DES and socket programming.
